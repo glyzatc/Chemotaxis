@@ -20,9 +20,6 @@ class Walker {
     myY = myY+(int)(Math.random()*5)-3;
     }
   }
-  //myX = myX + (int)(Math.random()*3)-1;
-  //myY = myY + (int)(Math.random()*3)-1;
-  //}
   
   void show() {
     fill(myColor);
